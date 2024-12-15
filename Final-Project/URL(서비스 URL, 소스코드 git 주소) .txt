@@ -1,0 +1,8 @@
+GITHUB：https://github.com/LJ2021105555/Final-Project.git
+서비스 URL：
+http://127.0.0.1:5000/detect  图像识别
+http://127.0.0.1:5000/change-detection 改变图像class	이미지 인식
+django: http://127.0.0.1:8000/api/images/ 上传图像		
+django: http://127.0.0.1:8000/api/token/   登录获取token
+django: http://127.0.0.1:8000/api/images/ 获取图像列表（get) 
+		
